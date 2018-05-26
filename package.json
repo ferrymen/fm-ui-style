@@ -1,5 +1,5 @@
 {
-  "name": "@ferrymen/fm-style",
+  "name": "@ferrymen/fm-ui-style",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ferrymen/fm-style.git"
+    "url": "git+https://github.com/ferrymen/fm-ui-style.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ferrymen/fm-style/issues"
+    "url": "https://github.com/ferrymen/fm-ui-style/issues"
   },
-  "homepage": "https://github.com/ferrymen/fm-style#readme"
+  "homepage": "https://github.com/ferrymen/fm-ui-style#readme"
 }
