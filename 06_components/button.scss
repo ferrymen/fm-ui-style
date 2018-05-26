@@ -1,0 +1,15 @@
+@import "../bootstrap";
+
+.button__text--primary {
+    color: dodgerblue;
+    &:hover {
+        color: red;
+    };
+    &.font-size {
+        font-size: 30px;
+    }
+}
+
+.font-size {
+    font-size: 40px;
+}

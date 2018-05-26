@@ -1,0 +1,14 @@
+/**
+ * Get tone form $md-palette
+ * @param {color}   $color    The desired color based on material palette
+ * @param {string}  $hue      A valid hue
+ * -------
+ * Usage example:
+ * $foo-palette: (
+ *    primary: md-get-palette-color(indigo, 500)
+ * );
+ * -------
+ */
+@function get-palette-color($color, $hue) {
+  @return map-get(map-get($md-palette, $color), $hue);
+}
